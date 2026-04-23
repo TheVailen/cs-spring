@@ -1,0 +1,171 @@
+1 aaa 1.1
+Ok
+
+1 aab 2.2
+Ok
+
+1 aac 3.3
+Ok
+
+1 aad 4.4
+Ok
+
+1 aae 5.5
+Ok
+
+1 aaf 6.6
+Ok
+
+1 aag 7.7
+Ok
+
+1 aah 8.8
+Ok
+
+1 aai 9.9
+Ok
+
+1 aaj 10.1
+Ok
+
+1 aak 11.2
+Ok
+
+1 aal 12.3
+Ok
+
+1 aam 13.4
+Ok
+
+1 aan 14.5
+Ok
+
+1 aao 15.6
+Ok
+
+1 aap 16.7
+Ok
+
+1 aaq 17.8
+Ok
+
+1 aar 18.9
+Ok
+
+1 aas 19.1
+Ok
+
+1 aat 20.2
+Ok
+
+1 aau 21.3
+Ok
+
+1 aav 22.4
+Ok
+
+1 aaw 23.5
+Ok
+
+1 aax 24.6
+Ok
+
+1 aay 25.7
+Ok
+
+3
+[aah:8.8]
+    [aad:4.4]
+        [aab:2.2]
+            [aaa:1.1]
+            [aac:3.3]
+        [aaf:6.6]
+            [aae:5.5]
+            [aag:7.7]
+    [aal:12.3 | aap:16.7 | aat:20.2]
+        [aaj:10.1]
+            [aai:9.9]
+            [aak:11.2]
+        [aan:14.5]
+            [aam:13.4]
+            [aao:15.6]
+        [aar:18.9]
+            [aaq:17.8]
+            [aas:19.1]
+        [aav:22.4]
+            [aau:21.3]
+            [aaw:23.5 | aax:24.6 | aay:25.7]
+
+4 aam
+Найдено 13.4
+
+4 aay
+Найдено 25.7
+
+4 zzz
+Не найдено
+
+2 aaa
+Ok
+
+2 aam
+Ok
+
+2 aay
+Ok
+
+3
+[aah:8.8 | aal:12.3 | aar:18.9]
+    [aad:4.4 | aaf:6.6]
+        [aab:2.2 | aac:3.3]
+        [aae:5.5]
+        [aag:7.7]
+    [aaj:10.1]
+        [aai:9.9]
+        [aak:11.2]
+    [aap:16.7]
+        [aan:14.5 | aao:15.6]
+        [aaq:17.8]
+    [aat:20.2 | aav:22.4]
+        [aas:19.1]
+        [aau:21.3]
+        [aaw:23.5 | aax:24.6]
+
+4 aaa
+Не найдено
+
+4 aam
+Не найдено
+
+4 aay
+Не найдено
+
+1 aba 26.8
+Ok
+
+1 abb 27.9
+Ok
+
+1 abc 28.1
+Ok
+
+3
+[aal:12.3]
+    [aah:8.8]
+        [aad:4.4 | aaf:6.6]
+            [aab:2.2 | aac:3.3]
+            [aae:5.5]
+            [aag:7.7]
+        [aaj:10.1]
+            [aai:9.9]
+            [aak:11.2]
+    [aar:18.9 | aav:22.4]
+        [aap:16.7]
+            [aan:14.5 | aao:15.6]
+            [aaq:17.8]
+        [aat:20.2]
+            [aas:19.1]
+            [aau:21.3]
+        [aax:24.6]
+            [aaw:23.5]
+            [aba:26.8 | abb:27.9 | abc:28.1]
